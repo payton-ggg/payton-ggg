@@ -2,7 +2,7 @@
     <h1>Hi there, I'm qpwe</h1>
     <p>
         <b>
-             <a href="https://t.me/quartzee">telegram</a> |
+             | <a href="https://t.me/quartzee">telegram</a> |
              <a href="https://twitter.com/ggg_payton">x</a> |
         </b>
     </p>
