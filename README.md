@@ -2,10 +2,8 @@
     <h1>Hi there, I'm qpwe</h1>
     <p>
         <b>
-             <a href="https://t.me/qpwedev">telegram</a> |
-             <a href="https://twitter.com/qpwedev">x</a> |
-            <a href="https://t.me/qdevstudio">qdevsudio</a> |
-            <a href="https://www.youtube.com/channel/UC7L4-q-vON2bkrLU1z4rsKw">qpwetech</a>
+             <a href="https://t.me/quartzee">telegram</a> |
+             <a href="https://twitter.com/ggg_payton">x</a> |
         </b>
     </p>
     <p>
@@ -19,23 +17,11 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                 alt="react" width="30" height="30" /></a>
         <a href="https://github.com/qpwedev" rel="noreferrer"><img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
-                width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
                 alt="docker" width="30" height="30" /></a>
         <a href="https://github.com/qpwedev" rel="noreferrer"><img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                alt="postgresql" width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python" width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" rel="noreferrer"><img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                alt="csharp" width="30" height="30" /></a>
-        <a href="https://github.com/qpwedev" rel="noreferrer"><img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="30" height="30" /></a>
     </p>
 </div>
 
