@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-    <img src="http://res.cloudinary.com/platon1gg/image/upload/v1727777144/mfg5xnoylb7n9deed9ne.png" />
+    <img src="http://res.cloudinary.com/platon1gg/image/upload/v1727777307/xa7ts5becnkttbdmbkhh.png" />
 </div>
 
 <div align="center">
