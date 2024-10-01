@@ -36,6 +36,6 @@
 </div>
 <br />
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payton-ggg&layout=compact" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payton-ggg&theme=dark&layout=compact" alt="GitHub Streak" />
 </div>
 
