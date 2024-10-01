@@ -17,6 +17,9 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="30" height="30" /></a>
         <a href="https://github.com/qpwedev" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+                alt="python" width="30" height="30" /></a>
+        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                 alt="react" width="30" height="30" /></a>
         <a href="https://github.com/qpwedev" rel="noreferrer"><img
