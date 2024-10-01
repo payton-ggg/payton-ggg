@@ -32,13 +32,10 @@
 </div>
 
 <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=python-ggg)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=payton-ggg)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
-    ![GitHub Streak](https://streak-stats.demolab.com/?user=python-ggg)
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=python-ggg&show_icons=true&theme=transparent)
-
-
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=payton-ggg&show_icons=true&theme=transparent)
 </div>
 
