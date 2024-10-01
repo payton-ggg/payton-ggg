@@ -11,6 +11,9 @@
                 src="https://gist.githubusercontent.com/qpwedev/eed15619e982c480ea9b0f14d3e564ad/raw/74042062aa0f7047696b8a2b54538d772d922beb/ton.svg"
                 alt="typescript" width="30" height="30" /></a>
         <a href="https://github.com/qpwedev" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                alt="python" width="30" height="30" /></a>
+        <a href="https://github.com/qpwedev" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
                 alt="typescript" width="30" height="30" /></a>
         <a href="https://github.com/qpwedev" rel="noreferrer"><img
