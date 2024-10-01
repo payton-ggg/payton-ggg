@@ -1,5 +1,5 @@
 <div align="center" style="display:grid;place-items:center;">
-    <h1>Hi there, I'm qpwe</h1>
+    <h1>Hi there, I'm platon or quartzee or whatever you want!</h1>
     <p>
         <b>
              | <a href="https://t.me/quartzee">telegram</a> |
