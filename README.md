@@ -32,10 +32,10 @@
 </div>
 
 <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=payton-ggg)](https://git.io/streak-stats)
+    <img src="https://streak-stats.demolab.com/?user=payton-ggg" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=payton-ggg&show_icons=true&theme=transparent)
+    <img src="https://github-readme-stats.vercel.app/api?username=payton-ggg&show_icons=true&theme=transparent" />
 </div>
 
