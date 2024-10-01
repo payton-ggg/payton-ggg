@@ -36,8 +36,7 @@
 </div>
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=python-ggg&theme=github_dark"
-        alt="Most Commit Language" style="max-width: 100%; height: auto;" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=python-ggg&show_icons=true&theme=transparent)
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=python-ggg&theme=github_dark"
         alt="Most Commit Language" style="max-width: 100%; height: auto;" />
 
