@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-    <img src="https://telegra.ph/file/eba4552141ecf0a4dffc5.jpg" alt="readme hero" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=python-ggg)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
