@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=payton-ggg" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=payton-ggg&theme=highcontrast" alt="GitHub Streak" />
 </div>
 
 <div align="center">
