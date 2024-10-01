@@ -36,6 +36,6 @@
 </div>
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=payton-ggg&theme=highcontrast" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=payton-ggg&theme=carbonfox" alt="GitHub Streak" />
 </div>
 
