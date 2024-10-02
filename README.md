@@ -37,5 +37,6 @@
 <br />
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payton-ggg&layout=compact" alt="GitHub Streak" />
 </div>
 
