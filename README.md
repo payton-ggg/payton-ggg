@@ -39,6 +39,6 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Streak" />
 </div>
 <div align="center">
-    <img src="https://www.codewars.com/users/payton-ggg/badges/small" alt="codewars"/>
+    <img src="https://www.codewars.com/users/payton-ggg/badges/large" alt="codewars"/>
 </div>
 
