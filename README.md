@@ -29,7 +29,7 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python" width="30" height="30" /></a>
 <a href="https://github.com/payton-ggg" rel="noreferrer"><img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original.svg"
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original-wordmark.svg"
                 alt="python" width="30" height="30" /></a>
     </p>
 </div>
