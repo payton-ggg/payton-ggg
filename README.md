@@ -36,6 +36,6 @@
 </div>
 <br />
 <div align="center">
-    <img src="https://www.codewars.com/users/payton-ggg/badges/small" alt="codewars"/>
+    <img src="https://www.codewars.com/users/payton-ggg/badges/medium" alt="codewars"/>
 </div>
 
